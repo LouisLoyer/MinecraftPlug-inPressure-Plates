@@ -1,0 +1,11 @@
+name: GoldenPressurePlate
+version: 1.0
+main: fr.bluesty.goldenpressureplate.GoldenPressurePlate
+author: Bluesty
+description: Un plugin Minecraft pour créer des propulseurs
+api-version: 1.20
+
+commands:
+  propcreate:
+    description: Active une plaque de pression comme propulseur.
+    usage: /propcreate
